@@ -1,4 +1,4 @@
-const malts = [
+window.MALTS = [
   {"name": "Abbey Malt", "cgas": 71.7},
   {"name": "Acerola", "cgas": 3.3},
   {"name": "Acidulated Malt", "cgas": 58.7},
